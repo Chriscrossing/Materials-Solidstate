@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.14)  23 OCT 2017 16:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.14)  23 OCT 2017 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -735,48 +735,67 @@ Package epstopdf Info: Source file: <Diagram.eps>
 (epstopdf)                    date: 2017-10-23 16:38:43
 (epstopdf)                    size: 235138 bytes
 (epstopdf)             Output file: <Diagram-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-10-23 16:39:16
+(epstopdf)                    size: 16346 bytes
 (epstopdf)             Command: <repstopdf --outfile=Diagram-eps-converted-to.p
 df Diagram.eps>
-(epstopdf)             \includegraphics on input line 93.
-runsystem(repstopdf --outfile=Diagram-eps-converted-to.pdf Diagram.eps)...execu
-ted safely (allowed).
-
-Package epstopdf Info: Result file: <Diagram-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-10-23 16:39:16
-(epstopdf)                    size: 16346 bytes.
+(epstopdf)             \includegraphics on input line 94.
+Package epstopdf Info: Output file is already uptodate.
 <Diagram-eps-converted-to.pdf, id=7, pagebox=cropbox, 462.72874pt x 347.2975pt>
 
 File: Diagram-eps-converted-to.pdf Graphic file (type pdf)
 <use Diagram-eps-converted-to.pdf>
-Package pdftex.def Info: Diagram-eps-converted-to.pdf  used on input line 93. o
-n input line 93.
-Package pdftex.def Info: Requested size: 512.1496pt x 384.41843pt on input line
- 93.
+Package pdftex.def Info: Diagram-eps-converted-to.pdf  used on input line 94. o
+n input line 94.
+Package pdftex.def Info: Requested size: 426.79134pt x 320.32837pt on input lin
+e 94.
  [2
 
- <./Diagram-eps-converted-to.pdf>] (./Homework_1.aux) ) 
+ <./Diagram-eps-converted-to.pdf>] (./Homework_1.bbl
+
+Class scrartcl Warning: incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 2.
+
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 28.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 28.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 28.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 9.19998pt on input line 28.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.99199pt on input line 28.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 28.
+) [3
+
+] (./Homework_1.aux) ) 
 Here is how much of TeX's memory you used:
- 7969 strings out of 492990
- 127037 string characters out of 6132644
- 378388 words of memory out of 5000000
- 11342 multiletter control sequences out of 15000+600000
- 75179 words of font info for 69 fonts, out of 8000000 for 9000
+ 8020 strings out of 492990
+ 127818 string characters out of 6132644
+ 378444 words of memory out of 5000000
+ 11388 multiletter control sequences out of 15000+600000
+ 95187 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,10n,51p,8821b,219s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017
-/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2017/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/a
-dobe/utopia/putr8a.pfb>
-Output written on Homework_1.pdf (2 pages, 79211 bytes).
+ 54i,10n,51p,8821b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/
+8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
+0.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12
+.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
+fb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/adobe/utopia/putr8a.pfb>
+Output written on Homework_1.pdf (3 pages, 81948 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 57 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
